@@ -1,0 +1,22 @@
+Branch,Subject Type,Subject Name,Credits
+CSE,Theory,Software Engineering and Project Management,3
+CSE,Theory,Computer Networks,3
+CSE,Theory,Database Management Systems,3
+CSE,Theory,Automata Theory and Computability,3
+CSE,Theory,Professional Elective - I,3
+CSE,Lab,DBMS Laboratory,1   
+CSE,Lab,Computer Networks Laboratory,1
+ISE,Theory,Software Engineering and Project Management,4
+ISE,Theory,Computer Networks,4
+ISE,Theory,File Structures,3
+ISE,Theory,Operating Systems,3
+ISE,Theory,Artificial Intelligence,3
+ISE,Lab,Data Visualization Laboratory,1
+ISE,Lab,File Structures Laboratory,1
+ECE,Theory,Technological Innovation & Management Entrepreneurship,2
+ECE,Theory,Digital Signal Processing,3
+ECE,Theory,Digital Communication,4
+ECE,Theory,Information Theory & Coding,3
+ECE,Theory,Electromagnetic Waves,3
+ECE,Lab,Digital Signal Processing Laboratory,1
+ECE,Lab,HDL Design Laboratory,1

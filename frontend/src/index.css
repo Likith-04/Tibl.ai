@@ -1,0 +1,16 @@
+@import "tailwindcss";
+/* @tailwind base;
+@tailwind components; */
+@tailwind utilities;
+
+
+html, body, #root { height: 100%; }
+
+
+/* small helpers */
+.sidebar-width { width: 260px; }
+.card-shadow { box-shadow: 0 6px 18px rgba(15,23,42,0.06); }
+
+
+/* override halo-ish button focus */
+:focus { outline: none; }
