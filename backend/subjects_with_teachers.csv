@@ -1,0 +1,21 @@
+Branch,Subject Type,Subject Name,teacher_id
+CSE,Theory,Software Engineering and Project Management,TCHR_001
+CSE,Theory,Computer Networks,TCHR_002
+CSE,Theory,Database Management Systems,TCHR_003
+CSE,Theory,Automata Theory and Computability,TCHR_004
+CSE,Theory,Professional Elective - I,TCHR_005
+CSE,Lab,DBMS Laboratory,TCHR_006
+CSE,Lab,Computer Networks Laboratory,TCHR_007
+ISE,Theory,Software Engineering and Project Management,TCHR_008
+ISE,Theory,Computer Networks,TCHR_009
+ISE,Theory,File Structures,TCHR_010
+ISE,Theory,Artificial Intelligence,TCHR_011
+ISE,Lab,Data Visualization Laboratory,TCHR_012
+ISE,Lab,File Structures Laboratory,TCHR_013
+ECE,Theory,Technological Innovation & Management Entrepreneurship,TCHR_014
+ECE,Theory,Digital Signal Processing,TCHR_015
+ECE,Theory,Digital Communication,TCHR_016
+ECE,Theory,Information Theory & Coding,TCHR_017
+ECE,Theory,Electromagnetic Waves,TCHR_018
+ECE,Lab,Digital Signal Processing Laboratory,TCHR_019
+ECE,Lab,HDL Design Laboratory,TCHR_020

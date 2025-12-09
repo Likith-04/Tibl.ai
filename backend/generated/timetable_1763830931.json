@@ -1,0 +1,101 @@
+{"CSE-A": [{"Day": "MON", "09:00-10:00": null, "10:00-11:00": "CSE_AUTOMATA_THEORY_AND_4 — Priya Reddy (TCHR_004)", "11:00-11:20": null, "11:20-12:20": null, "12:20-13:20": null, "13:20-14:00 (Lunch)": null, "14:00-15:00": "CSE_PROFESSIONAL_ELECTIV_5 — Isha Sharma (TCHR_005)", "15:00-16:00": null, "16:00-17:00": "CSE_COMPUTER_NETWORKS_2 — Amit Gupta (TCHR_002)"}, {"Day": "TUE", "09:00-10:00": "CSE_PROFESSIONAL_ELECTIV_5 — Isha Sharma (TCHR_005)", "10:00-11:00": "CSE_AUTOMATA_THEORY_AND_4 — Priya Reddy (TCHR_004)", "11:00-11:20": null, "11:20-12:20": "CSE_DBMS_LABORATORY_6 — Sourav Gupta (TCHR_006)\nCSE_COMPUTER_NETWORKS_LA_7 — Amit Gupta (TCHR_002)", "12:20-13:20": null, "13:20-14:00 (Lunch)": null, "14:00-15:00": null, "15:00-16:00": null, "16:00-17:00": "CSE_DATABASE_MANAGEMENT_3 — Karan Das (TCHR_003)"}, {"Day": "WED", "09:00-10:00": "CSE_SOFTWARE_ENGINEERING_1 — Sourav Sharma (TCHR_001)", "10:00-11:00": "CSE_AUTOMATA_THEORY_AND_4 — Priya Reddy (TCHR_004)", "11:00-11:20": null, "11:20-12:20": null, "12:20-13:20": null, "13:20-14:00 (Lunch)": null, "14:00-15:00": null, "15:00-16:00": "CSE_DATABASE_MANAGEMENT_3 — Karan Das (TCHR_003)", "16:00-17:00": null}, {"Day": "THU", "09:00-10:00": "CSE_DATABASE_MANAGEMENT_3 — Karan Das (TCHR_003)", "10:00-11:00": "CSE_SOFTWARE_ENGINEERING_1 — Sourav Sharma (TCHR_001)", "11:00-11:20": null, "11:20-12:20": "CSE_COMPUTER_NETWORKS_LA_7 — Amit Gupta (TCHR_002)\nCSE_DBMS_LABORATORY_6 — Sourav Gupta (TCHR_006)", "12:20-13:20": null, "13:20-14:00 (Lunch)": null, "14:00-15:00": null, "15:00-16:00": "CSE_COMPUTER_NETWORKS_2 — Amit Gupta (TCHR_002)", "16:00-17:00": null}, {"Day": "FRI", "09:00-10:00": "CSE_COMPUTER_NETWORKS_2 — Amit Gupta (TCHR_002)", "10:00-11:00": null, "11:00-11:20": null, "11:20-12:20": "CSE_SOFTWARE_ENGINEERING_1 — Sourav Sharma (TCHR_001)", "12:20-13:20": null, "13:20-14:00 (Lunch)": null, "14:00-15:00": null, "15:00-16:00": "CSE_PROFESSIONAL_ELECTIV_5 — Isha Sharma (TCHR_005)", "16:00-17:00": null}], "CSE-B": [{"Day": "MON", "09:00-10:00": null, "10:00-11:00": "CSE_AUTOMATA_THEORY_AND_4 — Priya Reddy (TCHR_004)", "11:00-11:20": null, "11:20-12:20": "CSE_SOFTWARE_ENGINEERING_1 — Sourav Sharma (TCHR_001)", "12:20-13:20": null, "13:20-14:00 (Lunch)": null, "14:00-15:00": null, "15:00-16:00": "CSE_PROFESSIONAL_ELECTIV_5 — Isha Sharma (TCHR_005)", "16:00-17:00": null}, {"Day": "TUE", "09:00-10:00": "CSE_DBMS_LABORATORY_6 — Sourav Gupta (TCHR_006)\nCSE_COMPUTER_NETWORKS_LA_7 — Amit Gupta (TCHR_002)", "10:00-11:00": null, "11:00-11:20": null, "11:20-12:20": null, "12:20-13:20": "CSE_DATABASE_MANAGEMENT_3 — Karan Das (TCHR_003)", "13:20-14:00 (Lunch)": null, "14:00-15:00": "CSE_SOFTWARE_ENGINEERING_1 — Sourav Sharma (TCHR_001)", "15:00-16:00": "CSE_PROFESSIONAL_ELECTIV_5 — Isha Sharma (TCHR_005)", "16:00-17:00": null}, {"Day": "WED", "09:00-10:00": null, "10:00-11:00": null, "11:00-11:20": null, "11:20-12:20": "CSE_COMPUTER_NETWORKS_2 — Amit Gupta (TCHR_002)", "12:20-13:20": null, "13:20-14:00 (Lunch)": null, "14:00-15:00": "CSE_DATABASE_MANAGEMENT_3 — Karan Das (TCHR_003)", "15:00-16:00": "CSE_PROFESSIONAL_ELECTIV_5 — Isha Sharma (TCHR_005)", "16:00-17:00": null}, {"Day": "THU", "09:00-10:00": "CSE_COMPUTER_NETWORKS_LA_7 — Amit Gupta (TCHR_002)\nCSE_DBMS_LABORATORY_6 — Sourav Gupta (TCHR_006)", "10:00-11:00": null, "11:00-11:20": null, "11:20-12:20": "CSE_DATABASE_MANAGEMENT_3 — Karan Das (TCHR_003)", "12:20-13:20": "CSE_COMPUTER_NETWORKS_2 — Amit Gupta (TCHR_002)", "13:20-14:00 (Lunch)": null, "14:00-15:00": "CSE_AUTOMATA_THEORY_AND_4 — Priya Reddy (TCHR_004)", "15:00-16:00": null, "16:00-17:00": null}, {"Day": "FRI", "09:00-10:00": "CSE_SOFTWARE_ENGINEERING_1 — Sourav Sharma (TCHR_001)", "10:00-11:00": null, "11:00-11:20": null, "11:20-12:20": "CSE_COMPUTER_NETWORKS_2 — Amit Gupta (TCHR_002)", "12:20-13:20": "CSE_AUTOMATA_THEORY_AND_4 — Priya Reddy (TCHR_004)", "13:20-14:00 (Lunch)": null, "14:00-15:00": null, "15:00-16:00": null, "16:00-17:00": null}], "CSE-C": [{"Day": "MON", "09:00-10:00": "CSE_COMPUTER_NETWORKS_LA_7 — Amit Gupta (TCHR_002)\nCSE_DBMS_LABORATORY_6 — Sourav Gupta (TCHR_006)", "10:00-11:00": null, "11:00-11:20": null, "11:20-12:20": "CSE_SOFTWARE_ENGINEERING_1 — Sourav Sharma (TCHR_001)", "12:20-13:20": "CSE_PROFESSIONAL_ELECTIV_5 — Isha Sharma (TCHR_005)", "13:20-14:00 (Lunch)": null, "14:00-15:00": null, "15:00-16:00": "CSE_COMPUTER_NETWORKS_2 — Amit Gupta (TCHR_002)", "16:00-17:00": null}, {"Day": "TUE", "09:00-10:00": "CSE_COMPUTER_NETWORKS_2 — Amit Gupta (TCHR_002)", "10:00-11:00": "CSE_AUTOMATA_THEORY_AND_4 — Priya Reddy (TCHR_004)", "11:00-11:20": null, "11:20-12:20": "CSE_DBMS_LABORATORY_6 — Sourav Gupta (TCHR_006)\nCSE_COMPUTER_NETWORKS_LA_7 — Amit Gupta (TCHR_002)", "12:20-13:20": null, "13:20-14:00 (Lunch)": null, "14:00-15:00": null, "15:00-16:00": "CSE_PROFESSIONAL_ELECTIV_5 — Isha Sharma (TCHR_005)", "16:00-17:00": null}, {"Day": "WED", "09:00-10:00": "CSE_COMPUTER_NETWORKS_2 — Amit Gupta (TCHR_002)", "10:00-11:00": null, "11:00-11:20": null, "11:20-12:20": "CSE_AUTOMATA_THEORY_AND_4 — Priya Reddy (TCHR_004)", "12:20-13:20": null, "13:20-14:00 (Lunch)": null, "14:00-15:00": "CSE_DATABASE_MANAGEMENT_3 — Karan Das (TCHR_003)", "15:00-16:00": null, "16:00-17:00": null}, {"Day": "THU", "09:00-10:00": "CSE_AUTOMATA_THEORY_AND_4 — Priya Reddy (TCHR_004)", "10:00-11:00": null, "11:00-11:20": null, "11:20-12:20": "CSE_DATABASE_MANAGEMENT_3 — Karan Das (TCHR_003)", "12:20-13:20": null, "13:20-14:00 (Lunch)": null, "14:00-15:00": null, "15:00-16:00": "CSE_SOFTWARE_ENGINEERING_1 — Sourav Sharma (TCHR_001)", "16:00-17:00": null}, {"Day": "FRI", "09:00-10:00": null, "10:00-11:00": "CSE_SOFTWARE_ENGINEERING_1 — Sourav Sharma (TCHR_001)", "11:00-11:20": null, "11:20-12:20": null, "12:20-13:20": "CSE_DATABASE_MANAGEMENT_3 — Karan Das (TCHR_003)", "13:20-14:00 (Lunch)": null, "14:00-15:00": "CSE_PROFESSIONAL_ELECTIV_5 — Isha Sharma (TCHR_005)", "15:00-16:00": null, "16:00-17:00": null}], "ISE-D": [{"Day": "MON", "09:00-10:00": null, "10:00-11:00": "ISE_COMPUTER_NETWORKS_2 — Amit Gupta (TCHR_002)", "11:00-11:20": null, "11:20-12:20": "ISE_OPERATING_SYSTEMS_4 — Karan Das (TCHR_003)", "12:20-13:20": "ISE_FILE_STRUCTURES_3 — Amit Sharma (TCHR_010)", "13:20-14:00 (Lunch)": null, "14:00-15:00": null, "15:00-16:00": null, "16:00-17:00": "ISE_ARTIFICIAL_INTELLIGE_5 — Priya Das (TCHR_011)"}, {"Day": "TUE", "09:00-10:00": "ISE_ARTIFICIAL_INTELLIGE_5 — Priya Das (TCHR_011)", "10:00-11:00": "ISE_SOFTWARE_ENGINEERING_1 — Sourav Sharma (TCHR_001)", "11:00-11:20": null, "11:20-12:20": null, "12:20-13:20": "ISE_FILE_STRUCTURES_3 — Amit Sharma (TCHR_010)", "13:20-14:00 (Lunch)": null, "14:00-15:00": null, "15:00-16:00": "ISE_COMPUTER_NETWORKS_2 — Amit Gupta (TCHR_002)", "16:00-17:00": null}, {"Day": "WED", "09:00-10:00": null, "10:00-11:00": "ISE_SOFTWARE_ENGINEERING_1 — Sourav Sharma (TCHR_001)", "11:00-11:20": null, "11:20-12:20": null, "12:20-13:20": null, "13:20-14:00 (Lunch)": null, "14:00-15:00": "ISE_FILE_STRUCTURES_3 — Amit Sharma (TCHR_010)", "15:00-16:00": null, "16:00-17:00": "ISE_ARTIFICIAL_INTELLIGE_5 — Priya Das (TCHR_011)"}, {"Day": "THU", "09:00-10:00": "ISE_DATA_VISUALIZATION_L_6 — Vivek Chopra (TCHR_012)\nISE_FILE_STRUCTURES_LABO_7 — Amit Sharma (TCHR_010)", "10:00-11:00": null, "11:00-11:20": null, "11:20-12:20": "ISE_OPERATING_SYSTEMS_4 — Karan Das (TCHR_003)", "12:20-13:20": null, "13:20-14:00 (Lunch)": null, "14:00-15:00": "ISE_COMPUTER_NETWORKS_2 — Amit Gupta (TCHR_002)", "15:00-16:00": "ISE_SOFTWARE_ENGINEERING_1 — Sourav Sharma (TCHR_001)", "16:00-17:00": null}, {"Day": "FRI", "09:00-10:00": "ISE_FILE_STRUCTURES_LABO_7 — Amit Sharma (TCHR_010)\nISE_DATA_VISUALIZATION_L_6 — Vivek Chopra (TCHR_012)", "10:00-11:00": null, "11:00-11:20": null, "11:20-12:20": null, "12:20-13:20": "ISE_OPERATING_SYSTEMS_4 — Karan Das (TCHR_003)", "13:20-14:00 (Lunch)": null, "14:00-15:00": "ISE_COMPUTER_NETWORKS_2 — Amit Gupta (TCHR_002)", "15:00-16:00": null, "16:00-17:00": "ISE_SOFTWARE_ENGINEERING_1 — Sourav Sharma (TCHR_001)"}], "ISE-E": [{"Day": "MON", "09:00-10:00": "ISE_FILE_STRUCTURES_3 — Amit Sharma (TCHR_010)", "10:00-11:00": null, "11:00-11:20": null, "11:20-12:20": null, "12:20-13:20": null, "13:20-14:00 (Lunch)": null, "14:00-15:00": "ISE_ARTIFICIAL_INTELLIGE_5 — Priya Das (TCHR_011)", "15:00-16:00": "ISE_OPERATING_SYSTEMS_4 — Karan Das (TCHR_003)", "16:00-17:00": "ISE_SOFTWARE_ENGINEERING_1 — Sourav Sharma (TCHR_001)"}, {"Day": "TUE", "09:00-10:00": null, "10:00-11:00": "ISE_OPERATING_SYSTEMS_4 — Karan Das (TCHR_003)", "11:00-11:20": null, "11:20-12:20": "ISE_SOFTWARE_ENGINEERING_1 — Sourav Sharma (TCHR_001)", "12:20-13:20": "ISE_ARTIFICIAL_INTELLIGE_5 — Priya Das (TCHR_011)", "13:20-14:00 (Lunch)": null, "14:00-15:00": "ISE_DATA_VISUALIZATION_L_6 — Vivek Chopra (TCHR_012)\nISE_FILE_STRUCTURES_LABO_7 — Amit Sharma (TCHR_010)", "15:00-16:00": null, "16:00-17:00": "ISE_COMPUTER_NETWORKS_2 — Amit Gupta (TCHR_002)"}, {"Day": "WED", "09:00-10:00": null, "10:00-11:00": null, "11:00-11:20": null, "11:20-12:20": "ISE_SOFTWARE_ENGINEERING_1 — Sourav Sharma (TCHR_001)", "12:20-13:20": null, "13:20-14:00 (Lunch)": null, "14:00-15:00": "ISE_ARTIFICIAL_INTELLIGE_5 — Priya Das (TCHR_011)", "15:00-16:00": null, "16:00-17:00": "ISE_COMPUTER_NETWORKS_2 — Amit Gupta (TCHR_002)"}, {"Day": "THU", "09:00-10:00": "ISE_COMPUTER_NETWORKS_2 — Amit Gupta (TCHR_002)", "10:00-11:00": "ISE_SOFTWARE_ENGINEERING_1 — Sourav Sharma (TCHR_001)", "11:00-11:20": null, "11:20-12:20": "ISE_FILE_STRUCTURES_3 — Amit Sharma (TCHR_010)", "12:20-13:20": null, "13:20-14:00 (Lunch)": null, "14:00-15:00": "ISE_FILE_STRUCTURES_LABO_7 — Amit Sharma (TCHR_010)\nISE_DATA_VISUALIZATION_L_6 — Vivek Chopra (TCHR_012)", "15:00-16:00": null, "16:00-17:00": null}, {"Day": "FRI", "09:00-10:00": null, "10:00-11:00": null, "11:00-11:20": null, "11:20-12:20": "ISE_OPERATING_SYSTEMS_4 — Karan Das (TCHR_003)", "12:20-13:20": null, "13:20-14:00 (Lunch)": null, "14:00-15:00": "ISE_FILE_STRUCTURES_3 — Amit Sharma (TCHR_010)", "15:00-16:00": null, "16:00-17:00": "ISE_COMPUTER_NETWORKS_2 — Amit Gupta (TCHR_002)"}], "ECE-F": [{"Day": "MON", "09:00-10:00": null, "10:00-11:00": "ECE_DIGITAL_SIGNAL_PROCE_2 — Sourav Gupta (TCHR_015)", "11:00-11:20": null, "11:20-12:20": null, "12:20-13:20": null, "13:20-14:00 (Lunch)": null, "14:00-15:00": "ECE_TECHNOLOGICAL_INNOVA_1 — Priya Gupta (TCHR_014)", "15:00-16:00": null, "16:00-17:00": "ECE_DIGITAL_COMMUNICATIO_3 — Vivek Nair (TCHR_016)"}, {"Day": "TUE", "09:00-10:00": "ECE_TECHNOLOGICAL_INNOVA_1 — Priya Gupta (TCHR_014)", "10:00-11:00": null, "11:00-11:20": null, "11:20-12:20": "ECE_DIGITAL_SIGNAL_PROCE_6 — Sourav Gupta (TCHR_015)\nECE_HDL_DESIGN_LABORATOR_7 — Amit Khan (TCHR_020)", "12:20-13:20": null, "13:20-14:00 (Lunch)": null, "14:00-15:00": "ECE_DIGITAL_SIGNAL_PROCE_2 — Sourav Gupta (TCHR_015)", "15:00-16:00": null, "16:00-17:00": "ECE_DIGITAL_COMMUNICATIO_3 — Vivek Nair (TCHR_016)"}, {"Day": "WED", "09:00-10:00": "ECE_ELECTROMAGNETIC_WAVE_5 — Ritu Patel (TCHR_018)", "10:00-11:00": null, "11:00-11:20": null, "11:20-12:20": "ECE_DIGITAL_COMMUNICATIO_3 — Vivek Nair (TCHR_016)", "12:20-13:20": null, "13:20-14:00 (Lunch)": null, "14:00-15:00": null, "15:00-16:00": null, "16:00-17:00": "ECE_INFORMATION_THEORY_C_4 — Priya Joshi (TCHR_017)"}, {"Day": "THU", "09:00-10:00": "ECE_ELECTROMAGNETIC_WAVE_5 — Ritu Patel (TCHR_018)", "10:00-11:00": "ECE_DIGITAL_COMMUNICATIO_3 — Vivek Nair (TCHR_016)", "11:00-11:20": null, "11:20-12:20": null, "12:20-13:20": "ECE_INFORMATION_THEORY_C_4 — Priya Joshi (TCHR_017)", "13:20-14:00 (Lunch)": null, "14:00-15:00": "ECE_HDL_DESIGN_LABORATOR_7 — Amit Khan (TCHR_020)\nECE_DIGITAL_SIGNAL_PROCE_6 — Sourav Gupta (TCHR_015)", "15:00-16:00": null, "16:00-17:00": null}, {"Day": "FRI", "09:00-10:00": "ECE_DIGITAL_SIGNAL_PROCE_2 — Sourav Gupta (TCHR_015)", "10:00-11:00": null, "11:00-11:20": null, "11:20-12:20": "ECE_INFORMATION_THEORY_C_4 — Priya Joshi (TCHR_017)", "12:20-13:20": null, "13:20-14:00 (Lunch)": null, "14:00-15:00": null, "15:00-16:00": null, "16:00-17:00": "ECE_ELECTROMAGNETIC_WAVE_5 — Ritu Patel (TCHR_018)"}]}      },
+        {
+            "Day": "WED",
+            "09:00-10:00": NaN,
+            "10:00-11:00": NaN,
+            "11:00-11:20": NaN,
+            "11:20-12:20": "ISE_SOFTWARE_ENGINEERING_1 — Sourav Sharma (TCHR_001)",
+            "12:20-13:20": NaN,
+            "13:20-14:00 (Lunch)": NaN,
+            "14:00-15:00": "ISE_ARTIFICIAL_INTELLIGE_5 — Priya Das (TCHR_011)",
+            "15:00-16:00": NaN,
+            "16:00-17:00": "ISE_COMPUTER_NETWORKS_2 — Amit Gupta (TCHR_002)"
+        },
+        {
+            "Day": "THU",
+            "09:00-10:00": "ISE_COMPUTER_NETWORKS_2 — Amit Gupta (TCHR_002)",
+            "10:00-11:00": "ISE_SOFTWARE_ENGINEERING_1 — Sourav Sharma (TCHR_001)",
+            "11:00-11:20": NaN,
+            "11:20-12:20": "ISE_FILE_STRUCTURES_3 — Amit Sharma (TCHR_010)",
+            "12:20-13:20": NaN,
+            "13:20-14:00 (Lunch)": NaN,
+            "14:00-15:00": "ISE_FILE_STRUCTURES_LABO_7 — Amit Sharma (TCHR_010)\nISE_DATA_VISUALIZATION_L_6 — Vivek Chopra (TCHR_012)",
+            "15:00-16:00": NaN,
+            "16:00-17:00": NaN
+        },
+        {
+            "Day": "FRI",
+            "09:00-10:00": NaN,
+            "10:00-11:00": NaN,
+            "11:00-11:20": NaN,
+            "11:20-12:20": "ISE_OPERATING_SYSTEMS_4 — Karan Das (TCHR_003)",
+            "12:20-13:20": NaN,
+            "13:20-14:00 (Lunch)": NaN,
+            "14:00-15:00": "ISE_FILE_STRUCTURES_3 — Amit Sharma (TCHR_010)",
+            "15:00-16:00": NaN,
+            "16:00-17:00": "ISE_COMPUTER_NETWORKS_2 — Amit Gupta (TCHR_002)"
+        }
+    ],
+    "ECE-F": [
+        {
+            "Day": "MON",
+            "09:00-10:00": NaN,
+            "10:00-11:00": "ECE_DIGITAL_SIGNAL_PROCE_2 — Sourav Gupta (TCHR_015)",
+            "11:00-11:20": NaN,
+            "11:20-12:20": NaN,
+            "12:20-13:20": NaN,
+            "13:20-14:00 (Lunch)": NaN,
+            "14:00-15:00": "ECE_TECHNOLOGICAL_INNOVA_1 — Priya Gupta (TCHR_014)",
+            "15:00-16:00": NaN,
+            "16:00-17:00": "ECE_DIGITAL_COMMUNICATIO_3 — Vivek Nair (TCHR_016)"
+        },
+        {
+            "Day": "TUE",
+            "09:00-10:00": "ECE_TECHNOLOGICAL_INNOVA_1 — Priya Gupta (TCHR_014)",
+            "10:00-11:00": NaN,
+            "11:00-11:20": NaN,
+            "11:20-12:20": "ECE_DIGITAL_SIGNAL_PROCE_6 — Sourav Gupta (TCHR_015)\nECE_HDL_DESIGN_LABORATOR_7 — Amit Khan (TCHR_020)",
+            "12:20-13:20": NaN,
+            "13:20-14:00 (Lunch)": NaN,
+            "14:00-15:00": "ECE_DIGITAL_SIGNAL_PROCE_2 — Sourav Gupta (TCHR_015)",
+            "15:00-16:00": NaN,
+            "16:00-17:00": "ECE_DIGITAL_COMMUNICATIO_3 — Vivek Nair (TCHR_016)"
+        },
+        {
+            "Day": "WED",
+            "09:00-10:00": "ECE_ELECTROMAGNETIC_WAVE_5 — Ritu Patel (TCHR_018)",
+            "10:00-11:00": NaN,
+            "11:00-11:20": NaN,
+            "11:20-12:20": "ECE_DIGITAL_COMMUNICATIO_3 — Vivek Nair (TCHR_016)",
+            "12:20-13:20": NaN,
+            "13:20-14:00 (Lunch)": NaN,
+            "14:00-15:00": NaN,
+            "15:00-16:00": NaN,
+            "16:00-17:00": "ECE_INFORMATION_THEORY_C_4 — Priya Joshi (TCHR_017)"
+        },
+        {
+            "Day": "THU",
+            "09:00-10:00": "ECE_ELECTROMAGNETIC_WAVE_5 — Ritu Patel (TCHR_018)",
+            "10:00-11:00": "ECE_DIGITAL_COMMUNICATIO_3 — Vivek Nair (TCHR_016)",
+            "11:00-11:20": NaN,
+            "11:20-12:20": NaN,
+            "12:20-13:20": "ECE_INFORMATION_THEORY_C_4 — Priya Joshi (TCHR_017)",
+            "13:20-14:00 (Lunch)": NaN,
+            "14:00-15:00": "ECE_HDL_DESIGN_LABORATOR_7 — Amit Khan (TCHR_020)\nECE_DIGITAL_SIGNAL_PROCE_6 — Sourav Gupta (TCHR_015)",
+            "15:00-16:00": NaN,
+            "16:00-17:00": NaN
+        },
+        {
+            "Day": "FRI",
+            "09:00-10:00": "ECE_DIGITAL_SIGNAL_PROCE_2 — Sourav Gupta (TCHR_015)",
+            "10:00-11:00": NaN,
+            "11:00-11:20": NaN,
+            "11:20-12:20": "ECE_INFORMATION_THEORY_C_4 — Priya Joshi (TCHR_017)",
+            "12:20-13:20": NaN,
+            "13:20-14:00 (Lunch)": NaN,
+            "14:00-15:00": NaN,
+            "15:00-16:00": NaN,
+            "16:00-17:00": "ECE_ELECTROMAGNETIC_WAVE_5 — Ritu Patel (TCHR_018)"
+        }
+    ]
+}

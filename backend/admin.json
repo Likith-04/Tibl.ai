@@ -1,0 +1,8 @@
+{
+    "id": "ADMIN_001",
+    "name": "Chetan Patil",
+    "role": "Admin",
+    "email": "admin@tibl.ai",
+    "password": "password123",
+    "created_at": "Sep 13, 2025"
+}
